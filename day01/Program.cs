@@ -10,6 +10,7 @@ namespace adventofcode2020
         static void Main(string[] args)
         {
             //Day01.DoDay01();
+            Day02.DoDay02();
 
         }
     }
