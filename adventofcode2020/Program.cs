@@ -10,7 +10,8 @@
             //Day04.DoDay04();
             //Day05.DoDay05();
             //Day06.DoDay06();
-            Day07.DoDay07();
+            //Day07.DoDay07();
+            Day08.DoDay08();
         }
     }
 }
